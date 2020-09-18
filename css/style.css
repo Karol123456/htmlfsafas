@@ -1,0 +1,64 @@
+body {
+    font-family: 'Anton', sans-serif;
+
+}
+
+#taa {
+    position: fixed;
+    background-color:rgb(15, 15, 15, 0.925)
+    
+}
+
+.btn {
+    background-color: rgba(15, 15, 15, 0.925);
+    border: none;
+    width: 15%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: px;
+    min-width: 90px;
+    font-family: 'Anton', sans-serif;
+
+    
+
+
+}
+
+.btn:hover {
+    background-color: rgba(12, 12, 219, 0.89);
+}
+
+
+.buttonCenter {
+    margin-left: 890px;
+    
+    
+}
+
+.przysobie {
+    margin: 0%;
+}
+
+
+.jjjj {
+margin-left: 18%;
+
+}
+
+.border {
+border-top: black;
+}
+
+
+.tak {
+position: fixed;
+
+}
+
+.nav {
+
+   width: 100%; 
+}
