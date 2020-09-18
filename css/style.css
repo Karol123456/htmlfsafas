@@ -21,6 +21,7 @@ body {
     font-size: px;
     min-width: 90px;
     font-family: 'Anton', sans-serif;
+font-size: 15px;
 
     
 
@@ -29,6 +30,7 @@ body {
 
 .btn:hover {
     background-color: rgba(86, 228, 51, 0.788);
+    
 }
 
 
@@ -36,48 +38,38 @@ body {
     margin-left: 890px;
     
     
+    
 }
-
-.przysobie {
-    margin: 5%;
-    margin-bottom: 10%;
-}
-
-
 .kkkk {
-
-    margin-right: 50px;
-
+    position: fixed;
+    top: 0;
+    z-index: 5;
 }
+ 
+
 
 .border {
 border-top: black;
 }
 
 
-.tak {
-position: fixed;
-
-}
-
-.nav {
-margin-left: 0%;
-   width: 100%; 
-}
-
 .dddd {
 margin-left: 17%;
-
 }
 
-.pozycja {
-    position: fixed;
-}
 
 .linia {
     border: black;
     border-style: solid;
-    
     width: 24%;
     position: fixed;
+    z-index: 10000;
+}
+
+.tabelka {
+table-layout: auto;
+}
+
+.ffff {
+    z-index: auto 1000;
 }
