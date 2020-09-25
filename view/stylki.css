@@ -1,0 +1,21 @@
+.grid1 {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 20px;
+    background-color: #808080
+    
+}
+
+.centruje {
+    margin-left: 810px;
+    width: 300px;
+}
+
+.rameczka {
+    border:4px inset;
+}
+
+.borderek {
+    border: 3px inset black;
+}
